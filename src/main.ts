@@ -8,6 +8,7 @@ if (started) {
 
 const createWindow = () => {
   const mainWindow = new BrowserWindow({
+    title: "Acrobot Dashboard",
     width: 1200,
     height: 800,
     webPreferences: {

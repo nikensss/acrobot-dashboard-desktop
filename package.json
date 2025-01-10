@@ -1,8 +1,8 @@
 {
   "name": "acrobot-dashboard-desktop",
-  "productName": "acrobot-dashboard-desktop",
+  "productName": "Acrobot Dashboard",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Dashboard for the Acrobot",
   "main": ".vite/build/main.js",
   "scripts": {
     "start": "electron-forge start",
